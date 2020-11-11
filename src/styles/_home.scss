@@ -1,0 +1,12 @@
+#home-container {
+    height: 98vh;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    margin-top: 2vh;
+    display: grid;
+    grid-gap: 2em;
+    grid-template-areas:
+    " . logo text"
+    "info logo text";
+    grid-template-columns: 1fr 2fr 2fr;
+}
