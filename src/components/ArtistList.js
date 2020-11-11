@@ -1,24 +1,40 @@
 import React from 'react';
+import {Link, graphql, useStaticQuery} from 'gatsby';
 
-export default class ArtistList extends React.Component {
-    render() {
-        return (
-            <div>
-                <ul>
-                    <li>Alethea Pace</li>
-                    <li>Ashleight Nichols</li>
-                    <li>Courton Messam</li>
-                    <li>Emily Maleave</li>
-                    <li>Alethea Pace</li>
-                    <li>Ashleight Nichols</li>
-                    <li>Courton Messam</li>
-                    <li>Emily Maleave</li>
-                    <li>Alethea Pace</li>
-                    <li>Ashleight Nichols</li>
-                    <li>Courton Messam</li>
-                    <li>Emily Maleave</li>
-                </ul>
-            </div>
-        );
+export default function ArtistList () {
+    const data = useStaticQuery(graphql`
+    query {
+        allSitePage {
+            edges {
+              node {
+                path
+              }
+            }
+          }
     }
+  `);
+    return (
+        <div>
+            <ul>
+                {data.allSitePage.edges.map(({node}) => {
+                    if(node.path.includes('dev') || node.path.length === 1) {
+                        return;
+                    }
+                    const joinedNames = node.path.replace('/', '');
+                    const separatedNames = joinedNames.split('-');
+                    console.log(separatedNames);
+                    for(let i=0; i<separatedNames.length; i++) {
+                        const _name = separatedNames[i];
+                        const upperCaseName = _name[0].toUpperCase() + _name.slice(1);
+                        separatedNames[i] = upperCaseName;
+                        
+                    }
+                    const name = separatedNames.join(' ');
+                    return (
+                        <li key={node.id}><Link to={node.path}>{name}</Link></li>
+                    );
+                })}
+            </ul>
+        </div>
+    );
 }
