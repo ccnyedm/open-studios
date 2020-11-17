@@ -8,6 +8,7 @@
 
 #student-image-container{
     position: relative;
+    margin-right: 25%;
 }
 
 #student-image:hover{
@@ -35,5 +36,9 @@ only screen and (max-width: 1200px)
  {
     #feature-point-image {
         width: 4vw;
+    }
+    #student-image-container{
+        position: relative;
+        margin-right: 0%;
     }
  }

@@ -13,13 +13,17 @@ export default function FeaturePoint(props) {
         marginTop: yTranslate + '%',
         position: 'absolute'
     };
+    const tooltipStyle = {
+        maxWidth: '15vw',
+        fontSize: '1vw'
+    };
     let dataTipId = `${xOffset}-${yOffset}`;
     return (
         <div style={style}>
-            <img data-tip={props.text} id="feature-point-image"
+            <img data-for='enrich' data-tip={props.text} id="feature-point-image"
                 src="/feature-point.svg"
             />
-            <ReactTooltip type="error" effect="float" />
+            <ReactTooltip data-for='enrich' type="error" effect="float" getContent={(dataTip) => (<div style={tooltipStyle}>{dataTip}</div>)} />
 
         </div>
     );
