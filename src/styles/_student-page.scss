@@ -1,7 +1,16 @@
 @import 'student-image';
 
+@font-face {
+    font-family: "Sintesi Bold";
+    src: url("..//../static/sintesi-bold.otf");
+}
+
+@font-face {
+font-family: "Sintesi Regular";
+src: url("..//../static/sintesi-regular.otf");
+}
+
 #student-page-container {
-    position: absolute;
     top: 0;
     margin-left: 10vh;
     margin-right: 10vh;
@@ -10,9 +19,43 @@
     display: grid;
     grid-gap: 10em;
     grid-template-areas:
-    " image text";
-    grid-template-columns: 2fr 2fr;
+    "image text";
+    grid-template-columns: 3fr 1fr;
+}
+
+#student-name {
+    font-size: 1.6vw;
+    font-family: "Sintesi Regular", sans-serif;
 }
 
 #student-text-container{
+    grid-area: text;
+    margin-top: 30vh;
+    direction: rtl;
+    text-align: justify;
+    font-size: 1vw;
 }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 2400px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 2400px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)      and (max-width: 2400px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 2400px),
+only screen and (                min-resolution: 192dpi)      and (max-width: 2400px),
+only screen and (                min-resolution: 2dppx)       and (max-width: 2400px),
+only screen and (max-width: 1200px)
+ {
+    #student-page-container {
+        display: inline;
+    }
+
+    #student-name {
+        font-size: 3.2vw;
+        text-align: center;
+    }
+
+    #student-text-container{
+        margin-top: 0;
+        font-size: 2vw;
+    }
+  }

@@ -1,20 +1,46 @@
 [
     {
-        "name": "Panhandler McJones",
-        "image": "open-studio-bw.jpg",
+        "name": "Stalgia Grigg",
+        "image": "open-studio-bw_c.jpg",
         "text": "Labore aliquip culpa fugiat est ut aliquip nisi dolor exercitation aute ullamco. Eiusmod cupidatat adipisicing esse eiusmod enim tempor duis consequat dolore aute nostrud et cupidatat minim. Anim occaecat duis mollit elit cupidatat enim velit officia nulla labore elit. Nostrud consequat incididunt eu tempor eu sunt ad reprehenderit commodo proident nisi duis qui id. Id magna ut do dolor tempor cupidatat esse do minim elit. Exercitation sunt fugiat duis ipsum mollit. Ea labore et irure tempor enim elit laborum sit nulla dolore laborum aliquip ex id.",
         "features": [
-            {"text": "EXAMPLE FEATURE POINT TEXT", "x": 100, "y": 100},
-            {"text": "ANOTHER EXAMPLE FEATURE POINT TEXT", "x": 200, "y": 400}
+            {
+                "text": "This is a sketch for a gamified web essay on Natalie White. Natalie was the center of a social-media campaign to find a suspect to charge for the burning of a Wendy’s in Atlanta in June.",
+                "x": 1159,
+                "y": 385
+            },
+            {
+                "text": "My roommates and I print out pictures of prominent whistleblowers to display on our fridge. This is a picture of Dawn Wooten, the whistleblower that revealed that ICE detention centers were forcing hysterectomies onto detainees.",
+                "x": 220,
+                "y": 1476
+            },
+            {
+                "text": "This is a project I am working on called 'dummy-data'. The project re-imagines the captcha as a utopian device and machine learning as a non-reactionary prognostic tool. I am interested in the idea of creating data for a different world rather than training machines to replicate our current one.",
+                "x": 750,
+                "y": 700
+            },
+            {
+                "text": "This is a a faraday sleeve that I made with the help of Tim Schwartz of LA Cryptoparty. It blocks your cellphone from sending and receiving communications (which it does even when it is off). I put my phone in this when I need to focus.",
+                "x": 500,
+                "y": 1400
+            }
         ]
     },
     {
         "name": "DJ Sophisticated-Dubstep",
-        "image": "open-studio-Stalgia-Grigg.jpg",
+        "image": "open-studio-Stalgia-Grigg_c.jpg",
         "text": "Adipisicing irure proident veniam ipsum tempor consectetur aute nostrud aliqua amet sint voluptate eu. Ullamco et officia velit tempor et ad proident veniam ex veniam mollit. Ea sint id officia sunt ut dolor sunt ad mollit sint et reprehenderit. Aute amet sunt mollit reprehenderit consequat. Deserunt quis incididunt incididunt et sunt sint cupidatat laborum nostrud. Enim consequat aute amet aute.",
         "features": [
-            {"text": "EXAMPLE FEATURE POINT TEXT", "x": 100, "y": 100},
-            {"text": "ANOTHER EXAMPLE FEATURE POINT TEXT", "x": 200, "y": 400}
+            {
+                "text": "EXAMPLE FEATURE POINT TEXT",
+                "x": 100,
+                "y": 100
+            },
+            {
+                "text": "ANOTHER EXAMPLE FEATURE POINT TEXT",
+                "x": 200,
+                "y": 400
+            }
         ]
     }
 ]
