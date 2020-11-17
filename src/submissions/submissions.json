@@ -1,6 +1,7 @@
 [
     {
         "name": "Panhandler McJones",
+        "image": "open-studio-bw.jpg",
         "text": "Labore aliquip culpa fugiat est ut aliquip nisi dolor exercitation aute ullamco. Eiusmod cupidatat adipisicing esse eiusmod enim tempor duis consequat dolore aute nostrud et cupidatat minim. Anim occaecat duis mollit elit cupidatat enim velit officia nulla labore elit. Nostrud consequat incididunt eu tempor eu sunt ad reprehenderit commodo proident nisi duis qui id. Id magna ut do dolor tempor cupidatat esse do minim elit. Exercitation sunt fugiat duis ipsum mollit. Ea labore et irure tempor enim elit laborum sit nulla dolore laborum aliquip ex id.",
         "features": [
             {"text": "EXAMPLE FEATURE POINT TEXT", "x": 100, "y": 100},
@@ -9,6 +10,7 @@
     },
     {
         "name": "DJ Sophisticated-Dubstep",
+        "image": "open-studio-Stalgia-Grigg.jpg",
         "text": "Adipisicing irure proident veniam ipsum tempor consectetur aute nostrud aliqua amet sint voluptate eu. Ullamco et officia velit tempor et ad proident veniam ex veniam mollit. Ea sint id officia sunt ut dolor sunt ad mollit sint et reprehenderit. Aute amet sunt mollit reprehenderit consequat. Deserunt quis incididunt incididunt et sunt sint cupidatat laborum nostrud. Enim consequat aute amet aute.",
         "features": [
             {"text": "EXAMPLE FEATURE POINT TEXT", "x": 100, "y": 100},
