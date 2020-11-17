@@ -22,12 +22,10 @@ export default function ArtistList () {
                     }
                     const joinedNames = node.path.replace('/', '');
                     const separatedNames = joinedNames.split('-');
-                    console.log(separatedNames);
                     for(let i=0; i<separatedNames.length; i++) {
                         const _name = separatedNames[i];
                         const upperCaseName = _name[0].toUpperCase() + _name.slice(1);
-                        separatedNames[i] = upperCaseName;
-                        
+                        separatedNames[i] = upperCaseName;     
                     }
                     const name = separatedNames.join(' ');
                     return (
