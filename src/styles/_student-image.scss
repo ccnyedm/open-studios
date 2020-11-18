@@ -9,13 +9,18 @@
 #student-image-container{
     position: relative;
     margin-right: 25%;
+    // pointer-events: all;
 }
 
-#student-image:hover{
+#student-image.hovered{
     -webkit-filter: grayscale(100%) brightness(150%) contrast(50%);
     -moz-filter: grayscale(100%) brightness(150%) contrast(50%);
     filter: grayscale(100%) brightness(150%) contrast(50%);
     transition: all 0.5s ease;
+}
+
+#student-image .color{
+
 }
 
 #feature-points-container {
@@ -24,10 +29,17 @@
     left: 0; 
     right: 0;
     bottom: 0;
+    // pointer-events: none;
 }
 
 #feature-point-image {
+    // pointer-events: all;
     width: 2vw;
+}
+
+.tooltip{
+    max-width: 15vw !important;
+    font-size: 1vw !important;
 }
 
 @media

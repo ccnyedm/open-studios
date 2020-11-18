@@ -14,7 +14,7 @@ export default function ArtistList () {
     }
   `);
     return (
-        <div>
+        <div id="artist-list">
             <ul>
                 {data.allSitePage.edges.map(({node}) => {
                     if(node.path.includes('dev') || node.path.length === 1) {

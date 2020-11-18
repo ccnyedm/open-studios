@@ -27,19 +27,29 @@
         ]
     },
     {
-        "name": "DJ Sophisticated-Dubstep",
-        "image": "open-studio-Stalgia-Grigg_c.jpg",
-        "text": "Adipisicing irure proident veniam ipsum tempor consectetur aute nostrud aliqua amet sint voluptate eu. Ullamco et officia velit tempor et ad proident veniam ex veniam mollit. Ea sint id officia sunt ut dolor sunt ad mollit sint et reprehenderit. Aute amet sunt mollit reprehenderit consequat. Deserunt quis incididunt incididunt et sunt sint cupidatat laborum nostrud. Enim consequat aute amet aute.",
+        "name": "Alethea Pace",
+        "image": "open-studios-Alethea_Pace.jpg",
+        "text": "I continued to work on <em>Here goes the neighborhood..</em>. \n a multimedia work that reminds us of the wealth of knowledge we have in our bodies, memories and histories, and empowers us to dream of radical visions for our future. Created in collaboration with Bronx community members, it is an offering to the Bronx and an invitation to reclaim space. The piece was supposed to premier in May 2020 at BAAD! \n The Bronx was always the source of inspiration for the project but that feeling intensified over the past few months. I’ve spent hours during this pandemic walking around the borough and getting to know it more than ever. Everywhere I turned, on every block and street corner, I saw both creativity and resilience bursting from the seams. That inspired me to keep making work that centers our stories, especially those that are often untold or forgotten.",
         "features": [
             {
-                "text": "EXAMPLE FEATURE POINT TEXT",
-                "x": 100,
-                "y": 100
+                "text": "This video is the culmination of a process of oral history walks that I cultivated with Bronxites. Their stories are presented alongside their site-specific movement responses.",
+                "x": 744,
+                "y": 847
             },
             {
-                "text": "ANOTHER EXAMPLE FEATURE POINT TEXT",
-                "x": 200,
-                "y": 400
+                "text": "I've been wanting to learn projection mapping for some time and have been familiarizing myself with Isadora software over the last few months.",
+                "x": 520,
+                "y": 1423
+            },
+            {
+                "text": "This video situates the work about the Bronx within a larger global context by mapping shifting landscapes across the world throughout history.",
+                "x": 962,
+                "y": 623
+            },
+            {
+                "text": "Milk crates...collecting, storing and transporting them was its own dance piece! They can be used to construct altars, dance on, sit on as well as being chandeliers.",
+                "x": 570,
+                "y": 146
             }
         ]
     }

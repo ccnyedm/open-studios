@@ -20,10 +20,10 @@ export default function FeaturePoint(props) {
     let dataTipId = `${xOffset}-${yOffset}`;
     return (
         <div style={style}>
-            <img data-for='enrich' data-tip={props.text} id="feature-point-image"
+            <img  data-tip={props.text} id="feature-point-image"
                 src="/feature-point.svg"
             />
-            <ReactTooltip data-for='enrich' type="error" effect="float" getContent={(dataTip) => (<div style={tooltipStyle}>{dataTip}</div>)} />
+            <ReactTooltip class="tooltip"  type="error" effect="float" />
 
         </div>
     );
