@@ -7,7 +7,7 @@ import {Link} from 'gatsby';
 window.over = false;
 export default function StudentPage (props){
     let student = props.pageContext;
-    let splitParagraphs = student.text.split('\n');
+    let splitParagraphs = student.text.replace('\n', '\n\n');
     let img = (<img id="student-image" src={student.image} />);
     function mouseOver() {
         document.getElementById("student-image").classList.add('hovered');
@@ -30,11 +30,7 @@ export default function StudentPage (props){
 
                 <div id="student-text-container">
                     <h2 id="student-name">{student.name}</h2>
-                    <p id="student-text">{
-                        splitParagraphs.map((p) => (
-                            <p key={p}>{p}</p>
-                        ))
-                    }</p>
+                    <p id="student-text"dangerouslySetInnerHTML={{__html: splitParagraphs}}></p>
                 </div>
                 <div id="back-button"><Link to="/">&#8592;</Link></div>
             </div>

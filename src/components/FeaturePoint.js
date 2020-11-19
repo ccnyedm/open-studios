@@ -11,19 +11,13 @@ export default function FeaturePoint(props) {
     const style = {
         marginLeft: xTranslate + '%',
         marginTop: yTranslate + '%',
-        position: 'absolute',
-        opacity: 0.5,
+        position: 'absolute'
     };
     const tooltipStyle = {
         maxWidth: '15vw',
         fontSize: '1vw',
     };
     let dataTipId = `${xOffset}-${yOffset}`;
-    let r = Math.random();
-    let htmlText = document.createElement('div');
-    htmlText.innerHTML = props.text;
-    let nodes = [...htmlText.childNodes];
-    console.log(nodes);
     return (
         <div style={style}>
             <img data-for={props.text} data-tip id="feature-point-image"
