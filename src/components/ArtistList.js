@@ -2,6 +2,11 @@ import React from 'react';
 import {Link, graphql, useStaticQuery} from 'gatsby';
 
 export default function ArtistList () {
+    let openTime = Date.parse("2020-11-20T16:00");
+    let closeTime = Date.parse("2020-11-20T18:00");
+    let now = Date.now();
+    let currentlyZoom = now < closeTime && now > openTime;
+    let zoomButton = currentlyZoom ? (<a id="zoom-button" href="https://ccny.zoom.us/j/96092105711">JOIN TELE CONVERGENCE</a>) : (<></>);
     const data = useStaticQuery(graphql`
     query {
         allSitePage {
@@ -29,6 +34,7 @@ export default function ArtistList () {
                     );
                 })}
             </ul>
+            {zoomButton}
         </div>
     );
 }
