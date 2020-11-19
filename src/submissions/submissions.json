@@ -158,5 +158,121 @@
                 "y": 1462
             }
         ]
+    },
+    {
+        "name": "GOODW.Y.N.",
+        "image": "open-studios-GOODWYN.jpg",
+        "text": "I really saw this assignment as a challenge and was hesitant to even involve myself or my 'stronghold' (studio). For me this has been a place of privacy and solitude, where I stare outside my window and envision another world, sometimes like this COVID-19 reality, other times far better or worse. Either way, allowing others to enter wasn't in my prerogative until a few words from the past echoed in my ears once more. 'Challenge Yourself.'",
+        "features": [
+            {
+                "text" :"This is the large viewing television that is hooked up to a laptop that is busted and yet I can't bear to part with.",
+                "x": 250,
+                "y": 77
+            },
+            {
+                "text" :"My favorite 'POPS' Collection (Snaps from Regular Show, Piccolo from Dragonball Z, Picardus Locutus of Borg, STNG)",
+                "x": 260,
+                "y": 274
+            },
+            {
+                "text" :"Race After Technology. An intriguing read about algorithms and the creation of 'cyber-prejudice' /racism. ",
+                "x": 1150,
+                "y": 1129
+            },
+            {
+                "text" :"AIJOY Plug/USB Port Set, comes in real handy these days.",
+                "x": 953,
+                "y": 1031
+            },
+            {
+                "text" :"Ring Light and stream camera for my podcast and sound experiments.",
+                "x": 1111,
+                "y": 935
+            },
+            {
+                "text" :"Podcast microphone",
+                "x": 1121,
+                "y": 994
+            },
+            {
+                "text" :"Soundproof pads",
+                "x": 1244,
+                "y": 938
+            }
+        ]
+    },
+    {
+        "name": "Katya Fedotova",
+        "image": "open-studios-Katya-Fedotova.jpg",
+        "text": "About five years ago I was introduced to the word “outdoorsy”, back then I thought it meant to describe someone like me. I have always treated my house like a tent, a campground at most, meaning that life begins once I stick my head out in the world. This year I realized that this feeling of internal freedom requires  having people that keep a home, maybe far, just somewhere. Once it’s gone- life is not adventurous it is derelict, chaotic and lonely.\nI spent months sitting in front of the window and thinking I would grow to dream of future journeys. When that didn’t happen-  I spent long weeks on a road hoping I’d eventually be excited to return home. Instead I got tired and when I was back to my Brooklyn apartment I got zipped up in blankets and began reading, writing and working on my photographs because unlike everything else- old habits die hard. The only times I step out of The Indoorsy are to take pictures and to buy food. Though I recall buying this kettle and a coffee mug about a week ago. ",
+        "features": [
+            {
+                "text": "My favorite albums contain botanical illustrations and geometric drawings- it's amusing and touching to be recognizing limitlessness of the world and see tireless attempts to outline it and make sense of it. Always helps me not to take my work too seriously.",
+                "x": 229,
+                "y": 831
+            },
+            {
+                "text": "I built a bed shelf to put a vase on it and to wake up to seeing flowers. I didn't consider that they would end where I can not actually see them. But I know they are there. ",
+                "x": 313,
+                "y": 289
+            },
+            {
+                "text": "On my last 10 out of 300 of my 'despicable me' instax film. I have lots of things to remember. These days I wonder when am I going to meet another 10 people whose faces I would want to keep on my fridge. Can it be strangers? I haven't seen this cartoon.",
+                "x": 440,
+                "y": 1082
+            },
+            {
+                "text": "In 2017 I bought a roll of film unaware that I forgot my camera at home  in Moscow. I found my roommate's Pentax and took 36 photos of her cat. She was impressed with the gesture and let me have both- the Pentax and the cat.",
+                "x": 273,
+                "y": 736
+            },
+            {
+                "text": "I don't really drink tea and I didn't think I would buy one with a whistle, but feeling like a Pavlov's dog experiment  is not too bad when you get to be a Pavlov as well; and instead of uncomfortable salivation it brings up memories of the better days.",
+                "x": 200,
+                "y": 1557
+            }
+        ]
+    },
+    {
+        "name": "Victor Plavitu",
+        "image": "open-studios-Victor-Plavitu.jpg",
+        "text": "Rolling out of bed 10 minutes before class to walk 5 feet over to my desk has been both the easiest and greatest challenge this semester. The convenience of attending a graduate program by simply signing into Zoom sounds great on paper or better said on “screen”. No need to sit in traffic, blame the MTA for unexpected delays or worry about the weather. These inconveniences are a thing of the past.\nLiving as a New Yorker in this covid world has made me miss and appreciate the hassles we once faced. Commuting is part of what defines us as New Yorkers. Now the phrase “work from home” is a concept we have all adopted. My bedroom has taken on a new role as my studio and my laptop has now become my university. All accessible within seconds. \nAs New Yorkers we continue to stay resilient, even through this unprecedented time in history. Amongst my family, friends and peers, I proudly say DIAP has been the best thing to happen to me. I admire the willingness, dedication, patience and adaptability of fellow students and faculty. These characteristics keep me motivated to perform my best even when my psyche has taken a toll. Although transitioning to the online “studio” has been an impactful learning experience, I can’t wait for the day to step into the actual DIAP studio at City College and apologize for being 10 minutes late because the A train was held up at 135th street.",
+        "features": [
+            {
+                "text": "<em>The Mammoth Book of Street Art and Photoviz:</em> sources of inspiration for new projects. Purchased 2019 in Bucharest, Romania. ",
+                "x": 195,
+                "y": 1459
+            },
+            {
+                "text": "Canon 7D Mark II: Owned since 2015. Primary camera.",
+                "x": 460,
+                "y": 1635
+            },
+            {
+                "text": "Synthesis Map about Mass Surveillance: Completed in DIAP Project Research where I explore the exploitation of power that government and private companies use to access data of American citizens under mass surveillance acts with little to no warrant. ",
+                "x": 787,
+                "y": 1210
+            },
+            {
+                "text": "Old Cardboard: Completed in DIAP Project Research. Revisits my childhood baseball card archive that I started 15 years ago. Analyzes the significance baseball had on me as I began to learn what it meant to be “American”.",
+                "x": 990,
+                "y": 1170
+            },
+            {
+                "text": "Lumina: Completed during my undergrad at Queens College The series of light paintings that explores the juxtaposition of human interaction with light and scale. Creating ephemeral images that elevate them to an other-worldly experience for the viewer.",
+                "x": 1080,
+                "y": 902
+            },
+            {
+                "text": "Fading Memories: A project completed Fall 2020. Images are pasted on bricks using Modge Podge and Citrasolv that invite viewers into a foreign dreamlike space where memories are fading. Photographs captured in Bucharest, Romania and Astoria, New York.",
+                "x": 1353,
+                "y": 1200
+            },
+            {
+                "text": "Polaroid Bulletin: Home to class reminders, notes, and photographs.",
+                "x": 193,
+                "y": 713
+            }
+        ]
     }
 ]

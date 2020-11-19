@@ -8,6 +8,9 @@ export default function ArtistList () {
             edges {
               node {
                 path
+                context {
+                    name
+                }
               }
             }
           }
@@ -20,14 +23,7 @@ export default function ArtistList () {
                     if(node.path.includes('dev') || node.path.length === 1) {
                         return;
                     }
-                    const joinedNames = node.path.replace('/', '');
-                    const separatedNames = joinedNames.split('-');
-                    for(let i=0; i<separatedNames.length; i++) {
-                        const _name = separatedNames[i];
-                        const upperCaseName = _name[0].toUpperCase() + _name.slice(1);
-                        separatedNames[i] = upperCaseName;     
-                    }
-                    const name = separatedNames.join(' ');
+                    const name = node.context.name;
                     return (
                         <li key={node.id}><Link to={node.path}>{name}</Link></li>
                     );

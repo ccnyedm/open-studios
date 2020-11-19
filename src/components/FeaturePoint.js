@@ -22,7 +22,7 @@ export default function FeaturePoint(props) {
         <div style={style}>
             <img data-for={props.text} data-tip id="feature-point-image"
                 src="/feature-point.svg"/>
-            <ReactTooltip id={props.text} clickable={true} class="tooltip" delayHide={1000} type="error" effect="float"> <div dangerouslySetInnerHTML={{__html: props.text}} /></ReactTooltip>
+            <ReactTooltip id={props.text} clickable={true} class="tooltip" delayHide={500} type="error" effect="float"> <div dangerouslySetInnerHTML={{__html: props.text}} /></ReactTooltip>
 
         </div>
     );

@@ -7,7 +7,7 @@ exports.createPages = ({actions}) => {
     const template = path.resolve('./src/templates/student.js');
 
     data.forEach(student => {
-        let path = student.name.replace(' ', '-').toLowerCase();
+        let path = student.name.slice().replace(' ', '-').toLowerCase();
         createPage({
             path,
             component: template,
