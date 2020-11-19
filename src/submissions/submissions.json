@@ -67,5 +67,69 @@
                 "y": 1110
             }
         ]
+    },
+    {
+        "name": "Ryan Maleady",
+        "image": "open-studios-Ryan-Maleady.jpg",
+        "text": "While most artists in DIAP are used to the studio being the laptop, I don’t think any of us were expecting what happened during our final school year. The laptop would become the site of our labor (if we were lucky enough to keep a job), where our virtual classes would be held, where the art would have to be made, and where even our leisure time would now take place while under different variations of lockdowns. \nAll distinctions between these modes of living have collapsed into the digital, making time feel out of joint and art sometimes feel unimportant in comparison to the chaotic and absorbing reality we’re living through. At the beginning of lockdown, I had a hard time justifying my art practice. Living through history made art seem meek and naive and the George Floyd uprisings made art feel even more futile in comparison. But as time passed and institutions and civilization itself began to visibly crumble under the weight of the pandemic, new possibilities, new futures seemed to make themselves visible and inspiration started to seep back into art and life.\nAfter seeing much of the art world respond to the Trump presidency with out-of-touch liberal morality theater and didactic protest art, I’ve become more interested in making art about conspiracy subcultures from a morally ambiguous and complex position. Now is as good a time as ever to ask ourselves “doesn’t a sick society call for a sick art?”",
+        "features": [
+            {
+                "text":"This is a photograph I took of a camouflaged <a href='https://urldefense.proofpoint.com/v2/url?u=http-3A__www.cellreception.com_towers_details.php-3Fid-3D1277252&d=DwMFaQ&c=4NmamNZG3KTnUCoC6InoLJ6KV1tbVKrkZXHRwtIMGmo&r=Y9dtZ4_anWI9JelE9zqto4OclfOSz_4vgbrAlZzJ0Rs&m=rFiv0XhQ1-TJpUuMVqNL9rncRsXPrkdLat1ZBhW01aA&s=K538FQ4mVqo0__CMkCrXtyzqV1V5odPmjezM8OTZJd8&e='>cell tower</a> in upstate NY. I got it printed onto corrugated plastic often used for political lawn signs and adhered custom bumper stickers, delineating the different generations of wireless cellular technology.",
+                "x": 882,
+                "y": 734
+            },
+            {
+                "text":"This is a website I made in the character of an anonymous artist and conspiracy theorist. I use the website as a 'sketch pad for ideas' where I create clickable, hyperlinked conspiracy image-fictions loosely based off current events.",
+                "x": 222,
+                "y": 1026
+            },
+            {
+                "text":"New Dark Age helped shape my views on contemporary conspiracy theory as a mass folklore of the internet. Bridle also makes connections between conspiratorial delusions and how they precisely track to the new scientific discoveries and technologies of the day.",
+                "x": 145,
+                "y": 1309
+            },
+            {
+                "text":"Apocalypse Culture is compulsory reading for any edgelord. No where else can you find an essay by someone like the radical anarchist and inventor of the temporary autonomous zone, Hakim Bey, followed by an essay by Hitler.",
+                "x": 627,
+                "y": 1280
+            },
+            {
+                "text":"Breathing is a beautifully poetic book about the cycles of spasm, despair, and chaos we encounter in the ever accelerating, suffocating corpse that is financial capitalism. The only way to regain our collective, rhythmic breath once again is through 'poetry'. ",
+                "x": 520,
+                "y": 1170
+            },
+            {
+                "text":"Land is at his best when diving head-on into schizophrenic theory-fiction. This was helpful in developing ways to write in a future-oriented way; creating new fictions out of existing ones by mashing prefixes, references, and suffixes together.",
+                "x": 235,
+                "y": 1431
+            }
+        ]
+    },
+    {
+        "name": "Victor Pinnock",
+        "image": "open-studios-Victor-Pinnock.jpg",
+        "text": "During the past year 6 months this desk has been where I work, study and play. Alleviate only ever so often walking outside or having to work in person twice a week on my new job as a highschool teacher over the past month. I've moved back home half way through the pandemic and now moving again. It seems like this year was somehow filled with more live changing events than the whole decade for me. Even though there has been much hardship and change, it has led me to great growth.",
+        "features": [
+            {
+                "text":"Physical computing components I just received today, I am planning to use to try to talk to plants as a final project for creative computing class. Together with other chips I am hoping to recycle and use for this project.",
+                "x": 120,
+                "y": 1040
+            },
+            {
+                "text":"Digital drawing app I created this semester using processing. It was a great exploration of coding and I had fun playing with it all the time.",
+                "x": 1020,
+                "y": 1020
+            },
+            {
+                "text":"A starbucks bottle filled with living moss, a self sustaining terrarium given to be as a gift by my friend Johnathan. I like to stare at it when I need a break from the screen.",
+                "x": 170,
+                "y": 861
+            },
+            {
+                "text":"Hard to see but a 3D printed pot sculpted using VR next to a design by one of my high school students. Black 3D printed objects don't always photograph well.",
+                "x": 470,
+                "y": 1000
+            }
+        ]
     }
 ]

@@ -2,6 +2,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import FeaturePoint from '../components/FeaturePoint';
+import {Link} from 'gatsby';
+
 window.over = false;
 export default function StudentPage (props){
     let student = props.pageContext;
@@ -34,6 +36,7 @@ export default function StudentPage (props){
                         ))
                     }</p>
                 </div>
+                <div id="back-button"><Link to="/">&#8592;</Link></div>
             </div>
         </div>
     );

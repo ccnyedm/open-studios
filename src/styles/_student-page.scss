@@ -35,10 +35,24 @@ src: url("../../static/sintesi-regular.otf");
     position: fixed;
     right: 2%;
     grid-area: text;
-    margin-top: 15vh;
+    margin-top: 10vh;
     text-align: justify;
     font-size: 1.2vw;
     white-space: pre-line;
+}
+
+
+#back-button a{
+    color: rgb(225, 90, 90);
+    font-size: 3em;
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    text-decoration: none;
+}
+
+#back-button a:hover{
+    font-size: 3.5em;
 }
 
 @media
