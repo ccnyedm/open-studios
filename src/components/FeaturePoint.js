@@ -20,8 +20,7 @@ export default function FeaturePoint(props) {
     let dataTipId = `${xOffset}-${yOffset}`;
     return (
         <div style={style}>
-            <img data-for={props.text} data-tip id="feature-point-image"
-                src="/feature-point.svg"/>
+            <div data-for={props.text} data-tip id="feature-point-image"/>
             <ReactTooltip id={props.text} clickable={true} class="tooltip" delayHide={500} type="error" effect="float"> <div dangerouslySetInnerHTML={{__html: props.text}} /></ReactTooltip>
 
         </div>

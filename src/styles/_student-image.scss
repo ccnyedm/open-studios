@@ -35,13 +35,32 @@
 #feature-point-image {
     // pointer-events: all;
     width: 2vw;
+    height:2vw;
+    border-radius: 50%;
+    background-color: rgb(226, 74, 74);
     opacity: 0.5;
+    animation: opacity-glow 5s ease-in-out alternate infinite;
 }
 
 .tooltip{
     max-width: 15vw !important;
     font-size: 1vw !important;
 }
+
+@keyframes opacity-glow {
+    0% {
+      opacity: 0.5;
+      background-color: rgb(226, 74, 74);
+    }
+    50% {
+      opacity: 0.8;
+      background-color: rgb(255, 109, 109);
+    }
+    100% {
+      opacity: 0.5;
+      background-color: rgb(226, 74, 74);
+    }
+  }
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 1200px),
