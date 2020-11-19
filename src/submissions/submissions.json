@@ -131,5 +131,32 @@
                 "y": 1000
             }
         ]
+    },
+    {
+        "name": "Zaira Ramos",
+        "image": "open-studios-Zaira-Ramos.jpg",
+        "text" :"The biggest challenge this semester was creating a space for myself at home. As a first year student in the DIAP program, I was really looking forward to interacting with fellow students in the open studio space. While undergrad I saw the importance of creating while being inspired by others. There is something about being in a space that helps lift you up. So when this semester everything switched to online learning, making a space for myself where I could zen out was super important. I needed to surround myself with things that inspired me to create, and also have the space where I could multitask with everything at once.",
+        "features": [
+            {
+                "text" :"These are some Illustration prints that I purchased from a Puerto Rican artist named Tanya Torres. The colors and meaning behind both prints serve as inspiration to a lot of my current work this semester.",
+                "x": 430,
+                "y": 214
+            },
+            {
+                "text" :"This is my desktop that has Indesign open with some beginning layout ideas for my current project. I also have google open next to my Indesign file as inspiration for what images will be used in my design.",
+                "x": 306,
+                "y": 540
+            },
+            {
+                "text" :"While I work, I like to also have my laptop on so I can go back and forth between my desktop and laptop files. I try to gather and look at as much information as I can while building the research aspect for my project.",
+                "x": 1205,
+                "y": 1008
+            },
+            {
+                "text" :"These are some sketches to my current project La Cura de Mami (Mom’s Cure). This project is inspired by past work that I have done relating to the generational study in my Puerto Rican heritage. I have been focused on the knowledge and objects that are passed down from mother to daughter. For this specific project I am focused on the medicinal properties in plants that have been grown and used by my mother, grandmother, and great grandmother. The book that is under my sketchbook is my mothers book that is full of plants and their medicinal properties. This is the driving force to my idea and research.",
+                "x": 505,
+                "y": 1462
+            }
+        ]
     }
 ]
