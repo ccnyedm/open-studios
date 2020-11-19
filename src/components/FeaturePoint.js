@@ -11,19 +11,24 @@ export default function FeaturePoint(props) {
     const style = {
         marginLeft: xTranslate + '%',
         marginTop: yTranslate + '%',
-        position: 'absolute'
+        position: 'absolute',
+        opacity: 0.5,
     };
     const tooltipStyle = {
         maxWidth: '15vw',
-        fontSize: '1vw'
+        fontSize: '1vw',
     };
     let dataTipId = `${xOffset}-${yOffset}`;
+    let r = Math.random();
+    let htmlText = document.createElement('div');
+    htmlText.innerHTML = props.text;
+    let nodes = [...htmlText.childNodes];
+    console.log(nodes);
     return (
         <div style={style}>
-            <img  data-tip={props.text} id="feature-point-image"
-                src="/feature-point.svg"
-            />
-            <ReactTooltip class="tooltip"  type="error" effect="float" />
+            <img data-for={props.text} data-tip id="feature-point-image"
+                src="/feature-point.svg"/>
+            <ReactTooltip id={props.text} clickable={true} class="tooltip" delayHide={1000} type="error" effect="float"> <div dangerouslySetInnerHTML={{__html: props.text}} /></ReactTooltip>
 
         </div>
     );
