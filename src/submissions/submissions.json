@@ -274,5 +274,32 @@
                 "y": 713
             }
         ]
+    },
+    {
+        "name": "Yujin Son",
+        "image": "open-studios-Yujin-Son.jpg",
+        "text": "During pandemic my liveliness and energy has turned into a small messiness on my desk. Luckily I could focus on my natural skills which is drawing and storytelling.  Learning software programs is cool and probably more ‘useful’ these days, but I often felt like it blurred my true color. I like how everything is in-reach at my desk- ideas, researches, concepts, scripts and so on. Sketchbooks of stories and characters are constantly asking me to ‘finish’ them. A lot of times I feel like starting from 0 again, which I think it was a necessary change.",
+        "features": [
+            {
+                "text": "All my ‘undead’ sketches",
+                "x": 1091,
+                "y": 447
+            },
+            {
+                "text": "Pen is my best friend. Both digital and traditional. It’s messy but I like to have them in reach whenever I need them to draw before I forget my idea",
+                "x": 1109,
+                "y": 915
+            },
+            {
+                "text": "Color pencils and brushes. It’s good to feel how it’s like to make work by hand, not with tablet and mouse.",
+                "x": 159,
+                "y": 1201
+            },
+            {
+                "text": "Sometimes I feel like my neck, back and eyes are tortured from staring at screens too long.",
+                "x": 252,
+                "y": 1623
+            }
+        ]
     }
 ]
