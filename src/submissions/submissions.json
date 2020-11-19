@@ -1,32 +1,5 @@
 [
     {
-        "name": "Stalgia Grigg",
-        "image": "open-studio-bw_c.jpg",
-        "text": "Labore aliquip culpa fugiat est ut aliquip nisi dolor exercitation aute ullamco. Eiusmod cupidatat adipisicing esse eiusmod enim tempor duis consequat dolore aute nostrud et cupidatat minim. Anim occaecat duis mollit elit cupidatat enim velit officia nulla labore elit. Nostrud consequat incididunt eu tempor eu sunt ad reprehenderit commodo proident nisi duis qui id. Id magna ut do dolor tempor cupidatat esse do minim elit. Exercitation sunt fugiat duis ipsum mollit. Ea labore et irure tempor enim elit laborum sit nulla dolore laborum aliquip ex id.",
-        "features": [
-            {
-                "text": "This is a sketch for a gamified web essay on Natalie White. Natalie was the center of a social-media campaign to find a suspect to charge for the burning of a Wendy’s in Atlanta in June.",
-                "x": 1159,
-                "y": 385
-            },
-            {
-                "text": "My roommates and I print out pictures of prominent whistleblowers to display on our fridge. This is a picture of Dawn Wooten, the whistleblower that revealed that ICE detention centers were forcing hysterectomies onto detainees.",
-                "x": 220,
-                "y": 1476
-            },
-            {
-                "text": "This is a project I am working on called 'dummy-data'. The project re-imagines the captcha as a utopian device and machine learning as a non-reactionary prognostic tool. I am interested in the idea of creating data for a different world rather than training machines to replicate our current one.",
-                "x": 750,
-                "y": 700
-            },
-            {
-                "text": "This is a a faraday sleeve that I made with the help of Tim Schwartz of LA Cryptoparty. It blocks your cellphone from sending and receiving communications (which it does even when it is off). I put my phone in this when I need to focus.",
-                "x": 500,
-                "y": 1400
-            }
-        ]
-    },
-    {
         "name": "Alethea Pace",
         "image": "open-studios-Alethea_Pace.jpg",
         "text": "I continued to work on <em>Here goes the neighborhood..</em>. \n a multimedia work that reminds us of the wealth of knowledge we have in our bodies, memories and histories, and empowers us to dream of radical visions for our future. Created in collaboration with Bronx community members, it is an offering to the Bronx and an invitation to reclaim space. The piece was supposed to premier in May 2020 at BAAD! \n The Bronx was always the source of inspiration for the project but that feeling intensified over the past few months. I’ve spent hours during this pandemic walking around the borough and getting to know it more than ever. Everywhere I turned, on every block and street corner, I saw both creativity and resilience bursting from the seams. That inspired me to keep making work that centers our stories, especially those that are often untold or forgotten.",
@@ -50,6 +23,48 @@
                 "text": "Milk crates...collecting, storing and transporting them was its own dance piece! They can be used to construct altars, dance on, sit on as well as being chandeliers.",
                 "x": 570,
                 "y": 146
+            }
+        ]
+    },
+    {
+        "name": "Diana Guerra",
+        "image": "open-studios-Diana-Guerra.jpg",
+        "text": "The way I make art has definitely changed since the pandemic started. I haven't worked in my studio since then and I also moved to a new apartment early in quarantine. Nowadays, I work at home with the space that is available. The process itself has also changed since now I include more planning before making and, in some way, this has transformed the scale and type of my work too. Almost all my work in progress is digital or has stayed in a digital format for now. \nI've transitioned to photographing more inside my apartment since meeting people has become more difficult due to Covid restrictions. This has allowed me to explore more in detail lighting techniques and specifics of studio photography which has been challenging but fruitful. I'm excited to see the outcomes of a new way of making that I've been experiencing the last few months, and to keep expanding the work that I started with my thesis project",
+        "features": [
+            {
+                "text":"This is an extension of my thesis project which I presented last semester. This photograph will be part of a series of still lives that dives into the third space that we, latinx immigrants, build on a daily basis in NYC.",
+                "x": 752,
+                "y": 571
+            },
+            {
+                "text": "A previous series of photographs where I collaborated with street vendors in Bushwick to place 3D printed objects in their food (https://dianaguerra.com/bushwick-america). The objects were the ones I included in the animation RGBird (https://rgbird.dianaguerra.com).",
+                "x": 756,
+                "y": 1004
+            },
+            {
+                "text": "Fabrics and props for my last photo series. I'm trying to include objects to accomplish a mixture of our homelands and NYC. Any ideas?",
+                "x": 198,
+                "y": 1028
+            },
+            {
+                "text": ": Cut out of the eyes of an immigrant worker that I photographed during a protest in July (https://www.instagram.com/p/CEATEQDp6hH/).",
+                "x": 152,
+                "y": 1480
+            },
+            {
+                "text": "My beloved digital camera that I recently got to transition from analog photography. Now, I'm trying to focus more on the image composition rather than the process of making it.",
+                "x": 1051,
+                "y": 912
+            },
+            {
+                "text": "I usually develop my black and white negatives. Here is a series that I worked on at the beginning of the year and that resembled a search for identity. (https://dianaguerra.com/look-at-look-into).",
+                "x": 1342,
+                "y": 946
+            },
+            {
+                "text": "One of my Social Security To Go stickers, a mail art project that included intervention in the public space. If you would like to receive one (for free), check out this link (https://dianaguerra.com/home-1).",
+                "x": 1296,
+                "y": 1110
             }
         ]
     }
