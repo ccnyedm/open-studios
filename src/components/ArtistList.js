@@ -30,7 +30,7 @@ export default function ArtistList () {
                     }
                     const name = node.context.name;
                     return (
-                        <li key={node.id}><Link to={node.path}>{name}</Link></li>
+                        <li key={name}><Link to={node.path}>{name}</Link></li>
                     );
                 })}
             </ul>

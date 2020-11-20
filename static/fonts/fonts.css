@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Sintesi Bold";
+    src: url("../sintesi-bold.otf");
+}
+
+@font-face {
+font-family: "Sintesi Regular";
+src: url("../sintesi-regular.otf");
+}
+
+@font-face {
+    font-family: "Happy Italic";
+    src: url("../happy-italic.otf");
+    }

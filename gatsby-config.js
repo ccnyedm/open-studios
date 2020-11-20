@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+    pathPrefix: "/openstudios2020",
     plugins: [
         {
             resolve: 'gatsby-source-filesystem',
@@ -9,9 +10,19 @@ module.exports = {
                 path: path.join(__dirname, 'src', 'images'),
             },
         },
-        'gatsby-plugin-image',
+        'gatsby-image',
         'gatsby-plugin-sharp',
         'gatsby-transformer-sharp',
-        'gatsby-plugin-sass'
+        'gatsby-plugin-sass',
+        {
+            resolve: "gatsby-plugin-web-font-loader",
+            options: {
+              custom: {
+                families: ["Sintesi Bold, Sintesi Regular, Happy Italic"],
+                urls: ["fonts/fonts.css"],
+              },
+            },
+          },
+  
     ],
 };
