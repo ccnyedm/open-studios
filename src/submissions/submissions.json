@@ -222,7 +222,7 @@
                 "y": 1082
             },
             {
-                "text": "In 2017 I bought a roll of film unaware that I forgot my camera at home  in Moscow. I found my roommate's Pentax and took 36 photos of her cat. She was impressed with the gesture and let me have both- the Pentax and the cat.",
+                "text": "In 2017 I bought a roll of film unaware that I forgot my camera <strike>at home</strike> in Moscow. I found my roommate's Pentax and took 36 photos of her cat. She was impressed with the gesture and let me have both- the Pentax and the cat.",
                 "x": 273,
                 "y": 736
             },
@@ -368,6 +368,28 @@
                 "text": "A sketch diagram for a video project about adapting to unexpected change.",
                 "x": 1090,
                 "y": 1226
+            }
+        ]
+    },
+    {
+        "name": "Gabrielle Blumenthal",
+        "image": "open-studios-Gabrielle-Blumenthal.jpg",
+        "text": "Working from home has been a challenge. Because I needed a (semi) ventilated, clay-friendly place, I was forced to start working in my bathtub. Here I’ve been working on a 50 piece sculpture series of found surgical masks, fossilized in clay, which will culminate in a mock-museum anthropological exhibition. I’m planning to spend a total of one year collecting discarded masks that I dip in stoneware clay slip and “burn out” in the forms that I found them in, leaving only a relief or hard shell. I work with the wet clay here and then take my  pieces out to Long Island, where a friend fires them for me, burning out the center of the mask. It’s a far cry from the CCNY studio space, but sometimes you find new inspiration in unlikely places. ",
+        "features": [
+            {
+                "text": "This bucket of slip is a reclaimed mixed clay body I’ve been using to first soak, then dip the masks after sanitation. ",
+                "x": 494,
+                "y": 1526
+            },
+            {
+                "text": "Using this cookie tray I’m able to transport drying masks outside to dry them faster.",
+                "x": 444,
+                "y": 1730
+            },
+            {
+                "text": "Occasionally I use the blow dryer to speed up the process, which produced cracks and dimples in the leather-hard/bone-dry state.",
+                "x": 985,
+                "y": 1716
             }
         ]
     }
