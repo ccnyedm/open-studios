@@ -301,5 +301,52 @@
                 "y": 1623
             }
         ]
+    },
+    {
+        "name": "Erica Shires",
+        "image": "open-studios-Erica-Shires.jpg",
+        "text":" Shifting to remote learning was traumatic and it took a while to find my bearings. Eventually, school and my cohorts became a way to reach out into a world that had gone quiet overnight and to try to make sense of what was going on. Two days before quarantine, my cat died; two weeks later her brother did too. There was a slow trickle of deaths of people I knew and then my father, who I wasn’t able to see again. The work I had been making all semester was tied up in loss and endings and the way sorrow changes us, and then a pandemic came along. As an artist, COVID-19 has given me a great deal to distill and draw from. \n\nI am in Brooklyn so my commute to City College took over an hour, but I miss the subway and my studio and seeing everyone in real life. I feel fortunate that my work is all on the computer, so space isn’t crucial and my set-up is sorted out. A working rhythm between my classes and everything I am making has settled in.",
+        "features": [
+            {
+                "text": "A Mac for classes and life and a PC for all of the programs I am using in DIAP. This is the first PC I have ever used but now I alternate between them both every day. There are two keyboards on the table behind my chair which I use when I am only working on one computer or when I am not on a zoom call.",
+                "x": 600,
+                "y": 1320
+            },
+            {
+                "text": "This face scan of Kara evolved from my research on death masks. It is a corrupted file but I liked the flaws and was experimenting with ways that I could use it in a video. Making death masks of unidentified corpses was an early form of forensics before photography was invented.",
+                "x": 388,
+                "y": 888
+            },
+            {
+                "text": "My much loved Canon 5D Mark III which I have had since 2012 - I just looked that up and wow that’s a long time for anything digital. Most everything I have made since then, both stills and video, was filmed using that camera. ",
+                "x": 66,
+                "y": 1166
+            },
+            {
+                "text": " A squirrel in a bowl of water thawing out for taxidermy. I have file folders full of images of each animal I have worked on. These were inspired by morgue records.",
+                "x": 160,
+                "y": 400
+            },
+            {
+                "text": " Another squirrel covered in copper patina and a bird covered in silver.",
+                "x": 1000,
+                "y": 640
+            },
+            {
+                "text": "This is a test print of Johanna - we have been working together for almost 10 years. It was shot during a workshop I was teaching in Italy and will be included in a larger book project.",
+                "x": 1212,
+                "y": 555
+            },
+            {
+                "text": "Stills from a video of my cat Moonpie, who died at the same time COVID sent us inside. ",
+                "x": 420,
+                "y": 650
+            },
+            {
+                "text": "Mood-board inspirations for research on a video I am making right now, which will most likely be a vignette in my final thesis. My interests lie in finding ways that old media and the natural environment can interact with emerging technologies. ",
+                "x": 700,
+                "y": 700
+            }
+        ]
     }
 ]
