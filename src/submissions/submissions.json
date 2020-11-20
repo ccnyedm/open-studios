@@ -348,5 +348,27 @@
                 "y": 700
             }
         ]
+    },
+    {
+        "name": "Nicole Carpenter",
+        "image": "open-studios-Nicole-Carpenter.jpg",
+        "text": "The hardest part of this semester was that, after starting at a new school and moving to NYC for the first time, I had to really think about how to make projects that I was super excited about within the strict limitations of the current pandemic. Previously my projects were mainly physical installations or live performances, but over this last semester I’ve had to learn new ways to bring my projects to life.\nSometimes I do get really tired of this whole pandemic and start to wish that we could just jump to the next chapter of our lives where we can all meet together again. But I try to remind myself that in each stage of life it’s important to live to the fullest and make art about that place or through the lens that that place gives you.",
+        "features": [
+            {
+                "text": "My COVID-19 computer game that I want to turn into a fully functioning app.",
+                "x": 147,
+                "y": 414
+            },
+            {
+                "text": "A video project about living life with thinking vs. feeling.",
+                "x": 632,
+                "y": 567
+            },
+            {
+                "text": "A sketch diagram for a video project about adapting to unexpected change.",
+                "x": 1090,
+                "y": 1226
+            }
+        ]
     }
 ]
